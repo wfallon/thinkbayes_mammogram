@@ -34,7 +34,7 @@ def main():
     #call update
     mam.Update('positive')
     
-    for hypo, prob in pmf.Items():
+    for hypo, prob in mam.Items():
         print hypo, prob
 
 
