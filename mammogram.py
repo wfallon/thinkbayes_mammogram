@@ -1,3 +1,7 @@
+#adapted from m_and_m.py
+#author: Billy Fallon
+#version: 1.0
+
 from thinkbayes import Suite
 
 class mammogram(Suite):
